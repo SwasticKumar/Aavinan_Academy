@@ -67,7 +67,7 @@ const Navbar = () => {
                 to="/signin"
                 className="btn btn-link text-dark text-decoration-none"
               >
-                Sign out
+                Sign In
               </NavLink>
               <NavLink
                 to="/get-started"
