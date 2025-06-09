@@ -1,0 +1,9 @@
+.heroSection {
+  background: #e7eeff;
+  min-height: 100vh;
+}
+
+.heroImage {
+  max-height: 400px;
+  object-fit: contain;
+}

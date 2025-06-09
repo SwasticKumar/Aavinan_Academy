@@ -1,0 +1,27 @@
+ .toggleBtn {
+  border: none;
+  background-color: #dee2e6;
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin: 0 10px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.toggleBtn:hover {
+  background-color: #ced4da;
+}
+
+.active {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.card a {
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.card a:hover {
+  color: #0a58ca;
+}

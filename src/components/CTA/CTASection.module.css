@@ -1,0 +1,14 @@
+.ctaBg {
+  background: linear-gradient(90deg, #2b6cb0, #805ad5);
+  border-radius: 0.5rem;
+}
+
+.outlineWhite {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+}
+
+.outlineWhite:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}

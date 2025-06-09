@@ -1,0 +1,12 @@
+.specs {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 14px;
+}
+
+.spec-row {
+  display: flex;
+  justify-content: space-between;
+}

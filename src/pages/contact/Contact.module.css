@@ -1,0 +1,13 @@
+.sendBtn {
+  padding: 12px;
+  font-weight: 500;
+  border-radius: 8px;
+}
+.label {
+  font-size: 14px;
+  font-weight: 500;
+  /* padding-bottom: 2px; */
+}
+input, select{
+    font-size: 14px;
+}

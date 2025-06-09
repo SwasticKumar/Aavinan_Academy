@@ -1,0 +1,28 @@
+.navpad li {
+  padding: 5px 10px;
+}
+
+.navpad .nav-item {
+  padding: 0.5rem 0;
+}
+
+.activeLink {
+  color: #2563eb !important;
+  font-weight: 500;
+}
+
+.authButtons {
+  margin-left: 1rem;
+}
+
+@media (max-width: 991px) {
+  .authButtons {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 1rem;
+  }
+
+  .authButtons a {
+    width: 100%;
+  }
+}
