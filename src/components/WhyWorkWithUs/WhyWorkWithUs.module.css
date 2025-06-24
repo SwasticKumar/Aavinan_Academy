@@ -1,0 +1,27 @@
+.whySection {
+  background-color: #f9fafc;
+}
+
+.reasonCard {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+  text-align: center;
+}
+
+.reasonCard:hover {
+  transform: translateY(-5px);
+}
+
+.iconCircle {
+  background-color: #2563eb;
+  color: #fff;
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

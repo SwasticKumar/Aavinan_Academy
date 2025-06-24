@@ -1,0 +1,51 @@
+.heroSection {
+  background: #e7eeff;
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.heroImage {
+  max-height: 400px;
+  object-fit: contain;
+}
+/* next section */
+.aboutSection {
+  background-color: #f8f9fa; 
+  color: #333;
+  border-radius: 8px;
+}
+
+.sectionTitle {
+  font-weight: 600;
+  font-size: 2rem;
+  color: #212529;
+}
+/* next section */
+.mvvSection {
+  background-color: #f9fafc;
+}
+
+.cardBox {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.cardBox:hover {
+  transform: translateY(-5px);
+}
+
+.iconCircle {
+  background-color: #2563eb;
+  color: #fff;
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

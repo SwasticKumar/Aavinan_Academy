@@ -1,6 +1,6 @@
-import test1 from '../assets/t1.jpg'
-import test2 from '../assets/t2.jpg'
-import test3 from '../assets/t3.jpg'
+import test1 from '../assets/t1.webp'
+import test2 from '../assets/t2.webp'
+import test3 from '../assets/t3.webp'
 
 
 const testimonials = [

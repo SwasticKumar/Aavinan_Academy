@@ -1,0 +1,33 @@
+.ctaSection {
+  background-color: #2563eb;
+}
+
+.ctaBtnPrimary {
+  background-color: #fff;
+  color: #2563eb;
+  border: none;
+  font-weight: 500;
+  padding: 0.5rem 1.2rem;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.ctaBtnPrimary:hover {
+  background-color: #e0e7ff;
+  color: #1e40af;
+}
+
+.ctaBtnOutline {
+  border: 1.5px solid #fff;
+  background: transparent;
+  color: #fff;
+  font-weight: 500;
+  padding: 0.5rem 1.2rem;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.ctaBtnOutline:hover {
+  background-color: #fff;
+  color: #2563eb;
+}

@@ -9,7 +9,7 @@ import {
   FaInstagram,
   FaLinkedinIn,
 } from "react-icons/fa";
-import logo from "../../assets/LOGO.png";
+import logo from "../../assets/LOGO.webp";
 
 export default function Footer() {
   return (
